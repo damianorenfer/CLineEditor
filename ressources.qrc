@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/gb.png</file>
+        <file>icons/fr.png</file>
+        <file>icons/de.png</file>
+        <file>icons/it.png</file>
+    </qresource>
+    <qresource prefix="/i18n">
+        <file>clineeditor_de.qm</file>
+        <file>clineeditor_it.qm</file>
+        <file>clineeditor_fr.qm</file>
+        <file>clineeditor_en.qm</file>
+    </qresource>
+</RCC>
